@@ -48,30 +48,6 @@ I don’t just write code — I engineer solutions.
 
 ---
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash)
-
 ---
 
 ## 🗄️ DATABASE SYSTEMS (12+)
