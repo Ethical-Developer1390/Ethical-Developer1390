@@ -138,5 +138,5 @@ I don’t just write code — I engineer solutions.
 ## 🌍 CONNECTION
 
 GitHub: https://github.com/Ethical-Developer1390
-Telegram: @YOUR_USERNAME  
+Telegram: @Ethical_Developer  
 Status: OPEN FOR COLLABORATION  
